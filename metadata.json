@@ -1,0 +1,5 @@
+{
+  "name": "Geo Guesser AI",
+  "description": "An application that allows users to upload an image of a place, building, or street, and uses AI to identify the location.",
+  "requestFramePermissions": []
+}
